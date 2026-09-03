@@ -20,13 +20,13 @@ La progression suit ainsi plusieurs périodes considérées comme des moments de
 
 **Préhistoire → Révolution agricole → Antiquité → Révolution industrielle → Présent → Futur**
 
-Chaque période transforme les conditions dans lesquelles les décisions suivantes devront être prises.
+Chaque période transforme les conditions dans lesquelles les décisions suivantes devront être prises. Le joueur conserve donc une capacité de choix, mais celle-ci ne s’exerce jamais dans un contexte totalement neutre : elle dépend aussi des structures, des décisions et des contraintes héritées des périodes précédentes.
 
-La phrase centrale du jeu, **« Tu ne choisis pas le futur. Tu verrouilles une trajectoire. »**, résume cette idée. Les décisions ne sont jamais totalement isolées. Même lorsqu’un choix semble limité à une situation immédiate, il contribue à façonner les possibilités disponibles plus tard.
+La phrase centrale du jeu, **« Tu ne choisis pas le futur. Tu verrouilles une trajectoire. »**, résume cette idée. Les décisions ne sont jamais totalement isolées. Même lorsqu’un choix semble limité à une situation immédiate, il contribue à façonner les possibilités disponibles plus tard. Certaines trajectoires deviennent ainsi progressivement plus faciles à poursuivre, tandis que d’autres deviennent plus difficiles ou plus coûteuses à emprunter.
 
 Le système de boucles temporelles prolonge cette logique. Le joueur peut revenir en arrière, mais il ne bénéficie pas d’un véritable *reset*. Les boucles s’accumulent et certaines conséquences persistent. Recommencer permet donc d’apprendre, mais pas d’effacer complètement ce qui s’est produit.
 
-À mesure que ces boucles se multiplient, la pression augmente. Le joueur dispose de moins en moins de marge et doit agir dans un monde déjà dégradé par les trajectoires précédentes.
+À mesure que ces boucles se multiplient, la pression augmente. Le joueur dispose de moins en moins de marge et doit agir dans un monde déjà dégradé par les trajectoires précédentes. La question du libre arbitre évolue ainsi au cours du jeu : il ne s’agit plus uniquement de savoir ce que le joueur souhaite choisir, mais aussi de comprendre **ce qu’il est encore en mesure de choisir dans une situation déjà largement façonnée par le passé**.
 
 ---
 
@@ -50,9 +50,9 @@ ChronoTerra s’adresse principalement à un **jeune public, notamment aux préa
 
 Le jeu ne demande pas de connaissances préalables particulières sur le changement climatique ou les sciences politiques.
 
-Le ton reste volontairement accessible, mais il ne cherche pas à rendre la crise environnementale confortable. L’humour, l’ironie et le cynisme permettent d'aborder des sujets parfois lourds sans recourir à une représentation graphique violente.
+Le ton reste volontairement accessible, mais il ne cherche pas à rendre la crise environnementale confortable. L’humour, l’ironie et le cynisme permettent d’aborder des sujets parfois lourds sans recourir à une représentation graphique violente.
 
-L’objectif est notamment de créer de la **frustration**, de la pression et parfois un sentiment d’injustice. Ces émotions font partie de l’expérience : elles doivent amener le joueur à se demander pourquoi les choix deviennent progressivement aussi difficiles.
+L’objectif est notamment de créer de la **frustration**, de la pression et parfois un sentiment d’injustice. Ces émotions font partie de l’expérience : elles doivent amener le joueur à se demander pourquoi les choix deviennent progressivement aussi difficiles et pourquoi certaines possibilités qui semblaient encore ouvertes auparavant ne le sont plus nécessairement.
 
 ChronoTerra se situe donc entre le **jeu de sensibilisation**, le **jeu critique** et l’outil de **médiation scientifique et sociale**.
 
@@ -62,13 +62,17 @@ ChronoTerra se situe donc entre le **jeu de sensibilisation**, le **jeu critique
 
 ChronoTerra ne cherche pas seulement à montrer les conséquences physiques du changement environnemental.
 
-Le projet s’intéresse surtout aux dimensions **politiques, sociales et institutionnelles** de la transition écologique.
+Le projet s’intéresse surtout aux dimensions **politiques, sociales, institutionnelles et temporelles** de la transition écologique.
 
-Un des concepts centraux du jeu est celui de **dépendance au sentier (*path dependence*)** : les choix effectués dans le passé influencent les possibilités disponibles dans le futur. Ils ne rendent pas nécessairement une trajectoire totalement irréversible, mais ils peuvent rendre certaines alternatives beaucoup plus difficiles, plus coûteuses ou moins acceptables.
+Un des concepts centraux du jeu est celui de **dépendance au sentier (*path dependence*)** : les choix effectués dans le passé influencent les possibilités disponibles dans le futur. Ils ne rendent pas nécessairement une trajectoire totalement irréversible, mais certaines décisions peuvent se renforcer avec le temps. Des infrastructures sont construites, des pratiques se stabilisent, des intérêts se constituent et des institutions s’adaptent autour d’un système existant. Changer de direction devient alors progressivement plus difficile ou plus coûteux.
 
-Cette idée est liée à celle de **verrouillage sociotechnique**. Les infrastructures, les modèles économiques, les comportements et les institutions construits autour d’un système peuvent créer leur propre inertie. Plus le système se développe, plus le changement devient difficile.
+Cette logique est particulièrement visible à partir de l’industrialisation. La dépendance à un modèle de développement ne repose pas uniquement sur des choix individuels ou sur une technologie particulière : elle s’inscrit également dans des infrastructures, des habitudes, des intérêts économiques et des arrangements institutionnels qui se développent ensemble et contribuent à maintenir une trajectoire.
 
-ChronoTerra aborde également :
+La transition écologique est donc présentée comme bien davantage qu’un simple remplacement technologique. Elle implique également des transformations sociales, politiques et institutionnelles. Les acteurs n’ont pas tous les mêmes intérêts, les mêmes ressources ni la même capacité à influencer la trajectoire collective.
+
+ChronoTerra s’intéresse également aux conditions dans lesquelles les décisions sont prises. Le joueur ne dispose pas toujours de toutes les informations, d’un temps illimité ou de toutes les alternatives possibles. À mesure que la situation se dégrade, il doit décider sous pression et à partir d’un nombre de possibilités de plus en plus réduit.
+
+Le jeu aborde ainsi plusieurs enjeux :
 
 - les compromis politiques ;
 - l’acceptabilité sociale des politiques environnementales ;
@@ -78,13 +82,13 @@ ChronoTerra aborde également :
 - la justice environnementale et intergénérationnelle ;
 - la gestion politique des crises et de la pénurie.
 
-Le jeu cherche ainsi à montrer que la transition écologique **n’est pas uniquement un problème scientifique ou technologique**. Elle implique des décisions collectives, des rapports de pouvoir, des conflits d’intérêts et des arbitrages sur la manière dont les coûts et les bénéfices sont répartis.
-
 ChronoTerra ne propose volontairement pas une politique qui serait présentée comme « la bonne solution ».
 
-Chaque décision peut améliorer certaines dimensions du système tout en en détériorant d’autres. En revanche, le jeu insiste sur une idée : **retarder l’action réduit progressivement l’espace dans lequel les choix peuvent encore être faits**.
+Chaque décision peut améliorer certaines dimensions du système tout en en détériorant d’autres. Le joueur conserve une capacité d’action, mais celle-ci s’exerce toujours à l’intérieur de conditions déjà partiellement déterminées par ce qui a précédé.
 
-Cette approche est directement liée aux sciences politiques, qui permettent d’aborder la transition environnementale non seulement comme une transformation technique, mais aussi comme une question de gouvernance, de décision collective et de pouvoir.
+Le propos du jeu n’est donc pas que l’avenir serait entièrement déterminé. Il cherche plutôt à montrer que **retarder l’action, renforcer certaines trajectoires et accumuler les contraintes peut progressivement réduire l’espace dans lequel les choix restent possibles**.
+
+La crise environnementale apparaît ainsi non seulement comme un problème scientifique et technique, mais également comme un problème de **gouvernance, de temporalité, de pouvoir et de décision collective**.
 
 ---
 
@@ -100,7 +104,11 @@ La structure du gameplay suit ainsi une évolution volontaire :
 
 **réfléchir → choisir → sélectionner → négocier → esquiver → survivre → gérer la pénurie**
 
-Cette progression accompagne l’histoire racontée par le jeu.
+Cette progression accompagne l’histoire racontée par le jeu, mais elle traduit aussi une transformation des conditions dans lesquelles le joueur exerce sa capacité de décision.
+
+Au départ, plusieurs possibilités peuvent être examinées calmement. Progressivement, le temps manque, les événements s’accélèrent et les contraintes augmentent. Le joueur ne cherche alors plus nécessairement la meilleure option possible : il doit agir avec les informations, le temps et les possibilités qui lui restent.
+
+Cette perte de contrôle est volontaire. Le jeu passe progressivement d’une logique de **décision** à une logique de **réaction**.
 
 Trois indicateurs suivent en permanence l’état du monde :
 
@@ -108,13 +116,17 @@ Trois indicateurs suivent en permanence l’état du monde :
 - **Biodiversité**
 - **Bien-être**
 
-Les décisions du joueur peuvent avoir des effets différents, voire contradictoires, sur ces trois dimensions.
+Leur coexistence permet d’éviter de réduire la transition environnementale à un seul objectif. Une décision favorable à une dimension peut produire un coût sur une autre. Le joueur doit donc composer avec des arbitrages plutôt qu’avec une solution systématiquement optimale.
 
 Le jeu utilise également un système de **boucles temporelles**. Certaines défaites ramènent le joueur vers une période antérieure, mais les boucles s’accumulent et influencent progressivement la difficulté et l’état général du monde.
+
+Recommencer n’équivaut donc pas à effacer : le joueur peut tirer parti de l’expérience acquise, mais agit dans une trajectoire qui conserve les traces de ce qui s’est déjà produit.
 
 ---
 
 ## 6. Lien entre mécaniques et concepts
+
+Une partie importante du projet consiste à ne pas seulement expliquer les concepts au joueur, mais à les faire passer par les **règles du jeu, les contraintes et les actions qu’il doit effectuer**.
 
 | Mécanique | Signification dans ChronoTerra |
 | --- | --- |
@@ -126,13 +138,20 @@ Le jeu utilise également un système de **boucles temporelles**. Certaines déf
 | **Présent sous pression** | Lorsque l’action arrive tardivement, le joueur ne prend plus réellement le temps de décider : il réagit à une succession de menaces. |
 | **Triage du futur** | Lorsque les marges de manœuvre ont presque disparu, gouverner ne consiste plus seulement à éviter les dommages, mais à répartir des ressources devenues insuffisantes. |
 | **Cannibaliser un abri** | Maintenir une partie du système peut nécessiter de produire explicitement des perdants et pose la question de la répartition de la pénurie. |
-| **Difficulté croissante** | La perte progressive de contrôle n’est pas seulement racontée : elle est directement ressentie à travers le gameplay. |
+| **Difficulté et vitesse croissantes** | Le temps et les informations disponibles pour prendre une décision diminuent progressivement. |
+| **Réutilisation de mini-jeux familiers** | Des règles de jeu simples sont replacées dans un autre contexte afin de représenter des processus sociaux et politiques. |
 
-Le passage progressif de la décision à la réaction est un élément central du projet.
+Le passage progressif de la décision à la réaction est ainsi un élément central du projet.
 
-ChronoTerra commence par demander au joueur : **« Que veux-tu faire ? »**
+ChronoTerra commence par demander au joueur :
 
-À la fin, la question devient davantage : **« Que peux-tu encore faire ? »**
+**« Que veux-tu faire ? »**
+
+À la fin, la question devient davantage :
+
+**« Que peux-tu encore faire ? »**
+
+Cette évolution résume la tension centrale du jeu entre capacité d’action et contraintes héritées.
 
 ---
 
@@ -144,7 +163,9 @@ ChronoTerra commence par demander au joueur : **« Que veux-tu faire ? »**
 | **Industrialisation** | `← / →` ou `A / D` pour se déplacer |
 | **Couloirs du pouvoir** | `WASD` ou flèches pour bouger, `Shift` pour courir, `Espace` pour le dash, `E` pour interagir |
 | **Présent sous pression** | `WASD` ou flèches pour se déplacer, `Shift` pour un mouvement précis, `Espace` pour le dash |
-| **Triage** | Clic pour sélectionner une ressource, glisser-déposer vers un abri, clic sur un abri pour le sélectionner |
+| **Triage** | Clic et glisser-déposer pour attribuer les ressources |
+
+Les commandes varient volontairement selon les séquences, puisque le changement de mécanique accompagne la transformation progressive de la situation et de la marge de manœuvre du joueur.
 
 ---
 
@@ -154,15 +175,15 @@ L’esthétique minimale de ChronoTerra résulte en partie des contraintes techn
 
 Le projet ne cherche pas à impressionner le joueur par un environnement très détaillé, coloré ou spectaculaire.
 
-L’interface est volontairement sobre, géométrique et parfois presque froide. Cette simplicité permet de créer une atmosphère progressivement plus oppressante, tout en laissant les décisions et les systèmes occuper une place centrale.
+L’interface est volontairement sobre, géométrique et parfois presque froide. L’objectif était notamment de conserver une atmosphère légèrement inquiétante et de ne pas détourner l’attention par un univers visuel trop séduisant ou spectaculaire.
 
-Les formes et les couleurs fonctionnent davantage comme des **signes** que comme des représentations réalistes.
+Les formes et les couleurs fonctionnent davantage comme des **signes** que comme des représentations réalistes. Cette simplicité permet également de maintenir l’attention sur les choix, les règles et l’évolution du système.
 
-L’état du monde est également intégré à l’environnement visuel. Lorsque le niveau de CO₂ augmente et que les boucles s’accumulent, l’arrière-plan devient progressivement plus sombre.
+L’état du monde est intégré à l’environnement visuel. Lorsque le niveau de CO₂ augmente et que les boucles s’accumulent, l’arrière-plan devient progressivement plus sombre.
 
-Cette évolution permet de rendre visible la détérioration de la trajectoire sans devoir constamment l’expliquer par du texte.
+Cette évolution permet de rendre perceptible la détérioration de la trajectoire sans devoir constamment l’expliquer par du texte.
 
-La sobriété visuelle n’a donc pas été pensée comme une fin en soi. Elle résulte d’un équilibre entre les contraintes de réalisation et la volonté de créer une expérience dans laquelle le joueur se concentre davantage sur ses choix, les indicateurs et leurs conséquences.
+La sobriété visuelle n’a donc pas été pensée comme une fin en soi. Elle résulte d’un équilibre entre les contraintes de réalisation et la volonté de créer une expérience dans laquelle l’attention reste principalement portée sur les mécanismes du jeu et leurs conséquences.
 
 ---
 
@@ -170,7 +191,7 @@ La sobriété visuelle n’a donc pas été pensée comme une fin en soi. Elle r
 
 ChronoTerra a été développé en **JavaScript** avec **Kaboom.js**.
 
-Kaboom.js faisait partie des outils proposés dans le cadre du cours. Sa relative simplicité et son accessibilité ont été particulièrement adaptées à ce projet, réalisé sans expérience préalable en programmation.
+Kaboom.js faisait partie des outils suggérés dans le cadre du cours. Sa relative simplicité et son accessibilité ont été particulièrement adaptées à ce projet, réalisé sans expérience préalable en programmation.
 
 Le jeu fonctionne directement dans le navigateur à partir d’une page HTML.
 
@@ -181,15 +202,33 @@ Technologies principales :
 - HTML
 - Web Audio API pour certains effets sonores simples
 
-Les éléments visuels du jeu sont principalement générés directement par le code, sans dépendre d’une banque importante d’assets graphiques externes.
+Les éléments visuels sont principalement générés directement par le code, sans recours à une banque importante d’assets graphiques externes.
+
+Le choix de Kaboom.js répond ainsi à la fois au cadre pédagogique du cours et à la nécessité de disposer d’un environnement suffisamment accessible pour permettre de concentrer le développement sur les mécaniques et la logique du jeu.
 
 ---
 
-## 10. Références scientifiques
+## 10. Références bibliographiques
 
-Les références ayant servi à documenter les concepts environnementaux et SHS du projet seront ajoutées ici.
+La conception de ChronoTerra s’appuie sur plusieurs travaux issus des sciences sociales, des études sur les transitions environnementales et des game studies. Ces références ont notamment nourri la réflexion autour du libre arbitre et de la capacité d’action, de la dépendance au sentier, du verrouillage des trajectoires, de la décision sous contrainte et de la capacité des mécaniques de jeu à transmettre un argument.
 
-> À compléter : climat, biodiversité, path dependence, carbon lock-in, transition écologique, acceptabilité sociale et justice environnementale.
+Bogost, I. (2007). *Persuasive Games: The Expressive Power of Videogames*. The MIT Press.  
+<https://doi.org/10.7551/mitpress/5334.001.0001>
+
+Emirbayer, M., & Mische, A. (1998). What Is Agency? *American Journal of Sociology, 103*(4), 962–1023.  
+<https://doi.org/10.1086/231294>
+
+Geels, F. W. (2002). Technological transitions as evolutionary reconfiguration processes: A multi-level perspective and a case-study. *Research Policy, 31*(8–9), 1257–1274.  
+<https://doi.org/10.1016/S0048-7333(02)00062-8>
+
+Pierson, P. (2000). Increasing Returns, Path Dependence, and the Study of Politics. *American Political Science Review, 94*(2), 251–267.  
+<https://doi.org/10.2307/2586011>
+
+Simon, H. A. (1955). A Behavioral Model of Rational Choice. *The Quarterly Journal of Economics, 69*(1), 99–118.  
+<https://doi.org/10.2307/1884852>
+
+Unruh, G. C. (2000). Understanding carbon lock-in. *Energy Policy, 28*(12), 817–830.  
+<https://doi.org/10.1016/S0301-4215(00)00070-7>
 
 ---
 
