@@ -234,9 +234,9 @@ Unruh, G. C. (2000). Understanding carbon lock-in. *Energy Policy, 28*(12), 817�
 
 ## 11. Jouer
 
-La version jouable de ChronoTerra sera disponible sur itch.io.
+La version jouable de ChronoTerra est disponible sur itch.io et peut être lancée directement dans le navigateur.
 
-**Lien : à ajouter après publication**
+🎮 **[Jouer à ChronoTerra](https://ranlbd.itch.io/chronoterra)**
 
 ---
 
