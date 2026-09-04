@@ -213,15 +213,21 @@ Le choix de Kaboom.js répond ainsi à la fois au cadre pédagogique du cours et
 La conception de ChronoTerra s’appuie sur plusieurs travaux issus des sciences sociales, des études sur les transitions environnementales et des game studies. Ces références ont notamment nourri la réflexion autour du libre arbitre et de la capacité d’action, de la dépendance au sentier, du verrouillage des trajectoires, de la décision sous contrainte et de la capacité des mécaniques de jeu à transmettre un argument.
 
 Bogost, I. (2007). Persuasive Games : The Expressive Power of Videogames. The MIT Press. https://doi.org/10.7551/mitpress/5334.001.0001
-Calvin, K., Dasgupta, D., Krinner, G., Mukherji, A., Thorne, P. W., Trisos, C., Romero, J., Aldunce, P., Barrett, K., Blanco, G., Cheung, W. W. L., Connors, S., Denton, F., Diongue-Niang, A., Dodman, D., Garschagen, M., Geden, O., Hayward, B., Jones, C., … Ha, M. (avec Lee, H.). (2023). IPCC, 2023 : Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, H. Lee and J. Romero (eds.)]. IPCC, Geneva, Switzerland. (P. Arias, M. Bustamante, I. Elgizouli, G. Flato, M. Howden, C. Méndez-Vallejo, J. J. Pereira, R. Pichs-Madruga, S. K. Rose, Y. Saheb, R. Sánchez Rodríguez, D. Ürge-Vorsatz, C. Xiao, N. Yassaa, J. Romero, J. Kim, E. F. Haites, Y. Jung, R. Stavins, … C. Péan, Éds.; First). Intergovernmental Panel on Climate Change (IPCC). https://doi.org/10.59327/IPCC/AR6-9789291691647
-Emirbayer, M., & Mische, A. (1998). What Is Agency?1. American Journal of Sociology, 103(4), 962 1023. https://doi.org/10.1086/231294
-Geels, F. W. (2002). Technological transitions as evolutionary reconfiguration processes : A multi-level perspective and a case-study. Research Policy, NELSON + WINTER + 20, 31(8), 1257 1274. https://doi.org/10.1016/S0048-7333(02)00062-8
-IPBES. (2019). Global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. https://doi.org/10.5281/zenodo.6417333
-Pierson, P. (2000). Increasing Returns, Path Dependence, and the Study of Politics. American Political Science Review, 94(2), 251 267. https://doi.org/10.2307/2586011
-Simon, H. A. (1955). A Behavioral Model of Rational Choice. The Quarterly Journal of Economics, 69(1), 99 118. https://doi.org/10.2307/1884852
-Unruh, G. C. (2000). Understanding carbon lock-in. Energy Policy, 28(12), 817 830. https://doi.org/10.1016/S0301-4215(00)00070-7
 
-<img width="454" height="690" alt="image" src="https://github.com/user-attachments/assets/46d12e81-db79-433a-ad41-65ea7266d969" />
+Calvin, K., Dasgupta, D., Krinner, G., Mukherji, A., Thorne, P. W., Trisos, C., Romero, J., Aldunce, P., Barrett, K., Blanco, G., Cheung, W. W. L., Connors, S., Denton, F., Diongue-Niang, A., Dodman, D., Garschagen, M., Geden, O., Hayward, B., Jones, C., … Ha, M. (avec Lee, H.). (2023). IPCC, 2023 : Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, H. Lee and J. Romero (eds.)]. IPCC, Geneva, Switzerland. (P. Arias, M. Bustamante, I. Elgizouli, G. Flato, M. Howden, C. Méndez-Vallejo, J. J. Pereira, R. Pichs-Madruga, S. K. Rose, Y. Saheb, R. Sánchez Rodríguez, D. Ürge-Vorsatz, C. Xiao, N. Yassaa, J. Romero, J. Kim, E. F. Haites, Y. Jung, R. Stavins, … C. Péan, Éds.; First). Intergovernmental Panel on Climate Change (IPCC). https://doi.org/10.59327/IPCC/AR6-9789291691647
+
+Emirbayer, M., & Mische, A. (1998). What Is Agency?1. American Journal of Sociology, 103(4), 962 1023. https://doi.org/10.1086/231294
+
+Geels, F. W. (2002). Technological transitions as evolutionary reconfiguration processes : A multi-level perspective and a case-study. Research Policy, NELSON + 
+
+WINTER + 20, 31(8), 1257 1274. https://doi.org/10.1016/S0048-7333(02)00062-8
+IPBES. (2019). Global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services. https://doi.org/10.5281/zenodo.6417333
+
+Pierson, P. (2000). Increasing Returns, Path Dependence, and the Study of Politics. American Political Science Review, 94(2), 251 267. https://doi.org/10.2307/2586011
+
+Simon, H. A. (1955). A Behavioral Model of Rational Choice. The Quarterly Journal of Economics, 69(1), 99 118. https://doi.org/10.2307/1884852
+
+Unruh, G. C. (2000). Understanding carbon lock-in. Energy Policy, 28(12), 817 830. https://doi.org/10.1016/S0301-4215(00)00070-7
 
 
 ---
