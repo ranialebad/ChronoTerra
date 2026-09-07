@@ -1,3 +1,4 @@
+![Uploading ChatGPT Image 4 sept. 2026, 08_54_09.png…]()
 # ChronoTerra
 
 Ce jeu vidéo a été créé avec **Kaboom.js** dans le cadre du cours [Développement de Jeux Vidéo 2D](https://github.com/ipante/ressources_cours_jeux_video_2D/blob/master/README.md), donné par Isaac Pante à l’Université de Lausanne, dans la section des sciences du langage et de l’information.
