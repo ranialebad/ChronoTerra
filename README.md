@@ -61,4 +61,6 @@ Rania Lebad
 
 ## Contributions
 
-Les éléments visuels du jeu sont principalement générés directement par le code. Les effets sonores simples sont générés à l’aide de la Web Audio API.
+L’image de couverture / de présentation du jeu a été générée avec ChatGPT (OpenAI).
+
+Les autres éléments visuels du jeu sont principalement générés directement par le code. Les effets sonores simples sont générés à l’aide de la Web Audio API.
